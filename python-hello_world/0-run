@@ -1,3 +1,2 @@
 #!/bin/bash
-# Run Python script specified by the environment variable $PYFILE
 python "$PYFILE"
